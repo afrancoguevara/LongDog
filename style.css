@@ -8,5 +8,15 @@ svg {
   width:15vw;
   margin:auto;
   padding-top: 40vh;
- 
+}
+
+
+@media only screen and (max-width: 48em) {
+  
+  svg {
+    width:35vw;
+    margin:auto;
+    padding-top: 40vh;
+  }
+
 }
